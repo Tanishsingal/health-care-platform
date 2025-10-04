@@ -1,0 +1,179 @@
+{
+  "common": {
+    "appName": "National Health Portal",
+    "tagline": "Government of India Health Initiative",
+    "goi": "GOI"
+  },
+  "nav": {
+    "login": "Login",
+    "register": "Register",
+    "getStarted": "Get Started",
+    "backToHome": "Back to Home"
+  },
+  "home": {
+    "hero": {
+      "badge": "Ayushman Bharat - Healthy India",
+      "title": "India's Digital Health",
+      "subtitle": "Platform",
+      "description": "Accessible, Affordable & Quality Healthcare for All Indians",
+      "registerButton": "Register Now",
+      "loginButton": "Access Portal",
+      "stats": {
+        "ayushman": "Ayushman Card Holders",
+        "centers": "Health Centers",
+        "treatments": "Successful Treatments",
+        "helpline": "Helpline Service"
+      },
+      "emergency": {
+        "title": "Emergency Helpline",
+        "numbers": "108 | 104 | 1075"
+      }
+    },
+    "schemes": {
+      "title": "Government Schemes",
+      "subtitle": "Government of India's Healthcare Initiatives for Every Citizen",
+      "ayushman": {
+        "title": "Ayushman Bharat",
+        "badge": "PM-JAY",
+        "description": "Free treatment up to ₹5 Lakhs for 50 Crore+ families",
+        "button": "Apply for Ayushman Card"
+      },
+      "janAushadhi": {
+        "title": "Jan Aushadhi",
+        "description": "Generic medicines at 90% lower prices at 10,000+ stores",
+        "button": "Find Nearest Store"
+      },
+      "hwc": {
+        "title": "Health & Wellness Centers",
+        "description": "Comprehensive primary healthcare at 1.5 Lakh+ centers nationwide",
+        "button": "Locate HWC Near You"
+      },
+      "eSanjeevani": {
+        "title": "e-Sanjeevani Telemedicine",
+        "description": "Free Online Doctor Consultation - 5 Crore+ consultations",
+        "button": "Start Consultation"
+      },
+      "abha": {
+        "title": "ABHA Card",
+        "description": "Unique Health ID - One card for all your health records - ABDM compliant",
+        "button": "Create ABHA ID"
+      },
+      "emergency": {
+        "title": "24x7 Emergency Service",
+        "description": "Free Ambulance - 108, 104, 1075 - Instant emergency response across India",
+        "button": "Call Emergency"
+      }
+    },
+    "services": {
+      "title": "Digital Health Services",
+      "subtitle": "Complete healthcare ecosystem for patients, doctors, labs, and healthcare providers",
+      "patient": {
+        "title": "Patient Portal",
+        "description": "Book appointments, view records, prescriptions & lab reports online"
+      },
+      "doctor": {
+        "title": "Doctor Dashboard",
+        "description": "Manage patients, e-prescriptions, appointments & treatment history"
+      },
+      "lab": {
+        "title": "Lab Integration",
+        "description": "Digital lab reports, test ordering & result tracking system"
+      },
+      "security": {
+        "title": "Secure & Private",
+        "description": "ABDM compliant, encrypted data storage & privacy protection"
+      }
+    },
+    "blogs": {
+      "title": "Health Updates",
+      "subtitle": "Latest healthcare policies, schemes, and wellness tips",
+      "viewAll": "View All",
+      "noBlogs": "No blogs yet",
+      "checkBack": "Check back soon for the latest healthcare news and updates!"
+    },
+    "cta": {
+      "badge": "Health for All",
+      "title": "Healthy India, Prosperous India",
+      "subtitle": "Join India's largest digital health platform. Register now and access quality healthcare services for your entire family.",
+      "registerButton": "Register Today",
+      "helplineButton": "Helpline: 108 / 104"
+    },
+    "footer": {
+      "schemes": "Government Schemes",
+      "services": "Services",
+      "contact": "Contact",
+      "links": "Important Links",
+      "ayushman": "Ayushman Bharat",
+      "janAushadhi": "Jan Aushadhi",
+      "abdm": "ABDM",
+      "eSanjeevani": "e-Sanjeevani",
+      "appointments": "Online Appointments",
+      "prescriptions": "E-Prescriptions",
+      "labReports": "Lab Reports",
+      "telemedicine": "Telemedicine",
+      "emergency": "Emergency: 108, 104",
+      "covidHelpline": "COVID Helpline: 1075",
+      "healthHelpline": "Health Helpline: 104",
+      "tollFree": "Toll-Free: 14555",
+      "indiaGov": "India.gov.in",
+      "mohfw": "Ministry of Health",
+      "copyright": "© 2024 National Health Portal | Powered by Government of India",
+      "lastUpdated": "Last Updated:",
+      "contentOwner": "Content Owner: Ministry of Health and Family Welfare, Government of India"
+    }
+  },
+  "auth": {
+    "login": {
+      "title": "Welcome Back",
+      "subtitle": "Sign in to access your healthcare portal",
+      "email": "Email Address",
+      "emailPlaceholder": "doctor@hospital.com",
+      "password": "Password",
+      "forgotPassword": "Forgot password?",
+      "signIn": "Sign In",
+      "signingIn": "Signing in...",
+      "noAccount": "Don't have an account?",
+      "createAccount": "Create account",
+      "demoTitle": "Demo Credentials - Click to Auto-fill",
+      "demoPassword": "Default password: password123",
+      "patientPortal": "👤 Patient Portal",
+      "doctorPortal": "🩺 Doctor Portal",
+      "adminPortal": "⚙️ Admin Portal",
+      "pharmacyPortal": "💊 Pharmacy Portal",
+      "nursePortal": "🔬 Nurse Portal"
+    },
+    "register": {
+      "title": "Create Account",
+      "subtitle": "Join our healthcare platform",
+      "fullName": "Full Name",
+      "email": "Email Address",
+      "password": "Password",
+      "confirmPassword": "Confirm Password",
+      "role": "Account Type",
+      "signUp": "Sign Up",
+      "signingUp": "Creating account...",
+      "hasAccount": "Already have an account?",
+      "signIn": "Sign in"
+    }
+  },
+  "dashboard": {
+    "patient": {
+      "title": "Patient Portal",
+      "subtitle": "Your Healthcare Dashboard",
+      "logout": "Logout",
+      "welcome": "Welcome back",
+      "healthOverview": "Here's your health overview",
+      "upcomingAppointments": "Upcoming Appointments",
+      "next": "Next",
+      "noUpcomingAppointments": "No upcoming appointments",
+      "medicalRecords": "Medical Records",
+      "lastVisit": "Last visit",
+      "noRecentVisits": "No recent visits",
+      "activePrescriptions": "Active Prescriptions",
+      "currentMedications": "Current medications",
+      "healthStatus": "Health Status",
+      "statusGood": "Good",
+      "overallHealth": "Overall health"
+    }
+  }
+}
